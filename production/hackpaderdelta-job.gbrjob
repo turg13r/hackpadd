@@ -5,17 +5,17 @@
       "Application": "Pcbnew",
       "Version": "9.0.7"
     },
-    "CreationDate": "2026-03-17T20:33:41+08:00"
+    "CreationDate": "2026-03-18T17:46:16+08:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "myhackpader",
-      "GUID": "6d796861-636b-4706-9164-65722e6b6963",
+      "Name": "hackpaderdelta",
+      "GUID": "6861636b-7061-4646-9572-64656c74612e",
       "Revision": "rev?"
     },
     "Size": {
-      "X": 24.05,
-      "Y": 60.05
+      "X": 69.05,
+      "Y": 42.05
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
@@ -32,47 +32,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "myhackpader-F_Cu.gtl",
+      "Path": "hackpaderdelta-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "myhackpader-B_Cu.gbl",
+      "Path": "hackpaderdelta-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "myhackpader-F_Paste.gtp",
+      "Path": "hackpaderdelta-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "myhackpader-B_Paste.gbp",
+      "Path": "hackpaderdelta-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "myhackpader-F_Silkscreen.gto",
+      "Path": "hackpaderdelta-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "myhackpader-B_Silkscreen.gbo",
+      "Path": "hackpaderdelta-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "myhackpader-F_Mask.gts",
+      "Path": "hackpaderdelta-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "myhackpader-B_Mask.gbs",
+      "Path": "hackpaderdelta-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "myhackpader-Edge_Cuts.gm1",
+      "Path": "hackpaderdelta-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
