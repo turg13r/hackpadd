@@ -12,7 +12,8 @@ This is my third time and day re-working the whole thing, please have mercy on m
 
 \# CAD
 
-<img width="1100" height="578" alt="image" src="https://github.com/user-attachments/assets/b3caf5dd-9558-445c-bff1-023b3b68c463" />
+<img width="1120" height="545" alt="image" src="https://github.com/user-attachments/assets/132d60df-22ff-44d5-bbaa-31b029b7c10a" />
+
 
 <img width="1135" height="626" alt="image" src="https://github.com/user-attachments/assets/8e9a2137-5d55-4a1b-b3a8-f07177d29402" />
 
@@ -20,13 +21,15 @@ This is my third time and day re-working the whole thing, please have mercy on m
 
 \# PCB
 
-<img width="1228" height="696" alt="image" src="https://github.com/user-attachments/assets/63d1d401-3c48-4ef8-8350-21e0324e8377" />
+<img width="1111" height="657" alt="image" src="https://github.com/user-attachments/assets/176c8762-d6b9-40cb-835f-ffb354b5f558" />
+
 
 
 
 \# SCHEMATIC
 
-<img width="1271" height="574" alt="image" src="https://github.com/user-attachments/assets/3fd3c744-8ac0-4054-abda-c4df5b55b866" />
+<img width="1625" height="594" alt="image" src="https://github.com/user-attachments/assets/bc74482b-628b-46d6-b8ce-f76f017d422e" />
+
 
 
 
@@ -44,11 +47,12 @@ This is my third time and day re-working the whole thing, please have mercy on m
 
 \- 1 XIAO SEEED RP2040
 
-\- 2 WS2812B LEDs
+\- 2 SK6812 Mini-E LEDs
 
 \- 1 0.91" 128x32 OLED Display
 
 \- 1 Case (2 3d printed parts. top and bottom)
+
 
 
 
