@@ -6,9 +6,6 @@ I made the project cause I really wanted to try using kicad and all this new sof
 
 
 
-This is my third time and day re-working the whole thing, please have mercy on me
-
-
 
 \# CAD
 
